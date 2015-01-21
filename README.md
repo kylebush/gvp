@@ -10,18 +10,10 @@ gvp is a companion tool to [gpm](http://github.com/pote/gpm) but both tools can 
 
 ![gpm + gvp usage](https://raw.github.com/pote/gpm/master/gpm_install.gif)
 
-
-### Install via Homebrew
-
-```bash
-$ brew install gvp
-```
-
 ### Install in *nix
 
 ```bash
 $ git clone https://github.com/pote/gvp.git && cd gvp
-$ git checkout v0.1.0 # You can ignore this part if you want to install HEAD.
 $ ./configure
 $ make install
 ```
